@@ -3,8 +3,6 @@ Practice-Example
 
 Some examples used to learn/review/save.
 
-还不太会编辑md文件的说
-
 ---------------------------
 
 ### 标签列表增删改Demo (TagsEdit.html)
